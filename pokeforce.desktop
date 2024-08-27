@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=PokeForce
 Comment=the Pokémon MMO
-Exec=/usr/bin/discord --ignore-gpu-blocklist --enable-features=UseOzonePlatform --enable-gpu-rasterization --disable-gpu-vsync --disable-frame-rate-limit
+Exec=/usr/bin/pokeforce
 Type=Application
 Categories=Game;
